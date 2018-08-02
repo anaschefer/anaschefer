@@ -37,6 +37,7 @@
           <div>
             <a href="mailto:hello@anaschefer.com">
               hello@anaschefer.com</a>
+          </div>
           <div>
             <span>+44(0)7531604373</span>
             <span>&thinsp;&thinsp;</span>
