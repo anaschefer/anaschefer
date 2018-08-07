@@ -25,12 +25,19 @@
 
         <p :class="$style.para">
           <span class="fc-u">Selected Work </span>
-          <span :class="$style.project">Metaflop</span>,
-          <span :class="$style.project">Venice Biennale</span>,
-          <span :class="$style.project">Anne Imhof</span>,
-          <span :class="$style.project">Sternberg Press</span>,
-          <span :class="$style.project">Astrup Fearnley Museum of Modern Art</span>,
-          <span :class="$style.project">Tony Oursler</span>.
+          <span :class="$style.project">The Architects Journal</span>,
+          <span :class="$style.project">The Architectural Review</span>,
+          <span :class="$style.project">ARPA</span>,
+          <span :class="$style.project">Barnbrook</span>,
+          <span :class="$style.project">Bookworks</span>,
+          <span :class="$style.project">Jonny Lu Studio</span>,
+          <span :class="$style.project">Phaidon Press</span>,
+          <span :class="$style.project">L’Officiel</span>,
+          <span :class="$style.project">Peter Pilotto</span>,
+          <span :class="$style.project">Stella McCartney</span>,
+          <span :class="$style.project">Victoria Beckham</span>,
+          <span :class="$style.project">University of East London</span>.
+          Portfolio upon request.
         </p>
 
         <aside :class="$style.last">
