@@ -42,8 +42,8 @@
 
         <aside :class="$style.last">
           <div>
-            <a href="mailto:hello@anaschefer.com">
-              hello@anaschefer.com</a>
+            <a href="mailto:anaschefer@gmail.com">
+              anaschefer@gmail.com</a>
           </div>
           <div>
             <span>+44(0)7531604373</span>
